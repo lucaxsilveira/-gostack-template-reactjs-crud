@@ -1,28 +1,28 @@
 {
   "foods": [
     {
-      "id": 1,
+      "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1296x728-header.jpg?w=1155&h=1528",
       "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "image": "https://static.glamurama.uol.com.br/2019/10/destaque_erick-j.jpg",
+      "name": "Non déslig frigiderrr a noitche",
       "price": "21.90",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 2
     },
     {
-      "id": 3,
+      "image": "https://assets.papelpop.com/wp-content/uploads/2019/08/paola.jpg",
       "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 3
     }
   ]
 }

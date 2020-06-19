@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a>
-    <img alt="GoRestaurant" title="GithubGoRestaurant" src="https://github.com/lucaxsilveira/gostack-template-reactjs-crud/blob/master/.github/logo.png?raw=true" width="450">
+    <img alt="GoRestaurant" title="GoRestaurant" src="https://github.com/lucaxsilveira/gostack-template-reactjs-crud/blob/master/.github/logo.png?raw=true" width="450">
   </a>
 </p>
 <p align="center">

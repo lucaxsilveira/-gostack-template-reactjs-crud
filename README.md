@@ -34,7 +34,7 @@
 
 ## Installation
 
-1. `git clone https://github.com/lucaxsilveira/github-explorer.git`
+1. `git clone https://github.com/lucaxsilveira/gostack-template-reactjs-crud.git`
 2. `yarn`
 
 ## Available Scripts
